@@ -1,0 +1,9 @@
+/*
+ * Comment for license information.
+ */
+/**
+ * Doc comment.
+ */
+protocol CartonAuditSuccessful {
+	// Insert your protocol elements here
+}

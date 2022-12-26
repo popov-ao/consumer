@@ -1,0 +1,9 @@
+/*
+ * Comment for license information.
+ */
+/**
+ * Doc comment.
+ */
+protocol AuditEnded {
+	// Insert your protocol elements here
+}
